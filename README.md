@@ -23,7 +23,7 @@
 
 **Contributor** to [Kotlin Serialization](https://github.com/Kotlin/kotlinx.serialization), [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator), [CloudPosse Terraform Modules](https://github.com/cloudposse), and more
 
-💼 **4 Granted US Patents** in cloud computing, distributed systems, and software intelligence • [View All](https://patents.google.com/?inventor=Cody+Moore)
+💼 **4 Granted US Patents** in cloud computing, distributed systems, and software intelligence • [View All](https://patents.google.com/?inventor=Cody+Moore&assignee=Palantir+Technologies)
 
 </div>
 
