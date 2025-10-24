@@ -36,7 +36,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-268bd2?style=for-the-badge&logo=linkedin&logoColor=fdf6e3)](https://www.linkedin.com/in/cody-j-moore/)
-[![GitHub](https://img.shields.io/badge/GitHub-073642?style=for-the-badge&logo=github&logoColor=839496)](https://github.com/dotCipher)
 [![Email](https://img.shields.io/badge/Email-dc322f?style=for-the-badge&logo=gmail&logoColor=fdf6e3)](mailto:cody.moore101@gmail.com)
 
 📍 New York, NY • ☕ Coffee • 🎵 EDM • 🥃 Scotch
