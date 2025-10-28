@@ -8,11 +8,6 @@
 
 🦅 Ex-Palantir • 🔒 CyberSecurity + AI • ☁️ Distributed Systems • 🪙 Crypto/Web3 • 💡 Patent Holder
 
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotCipher&show_icons=true&theme=solarized-dark&hide_border=true&bg_color=002b36&title_color=2aa198&icon_color=2aa198&text_color=839496&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dotCipher&layout=compact&theme=solarized-dark&hide_border=true&bg_color=002b36&title_color=2aa198&text_color=839496&langs_count=8)
-
 </div>
 
 <br/>
