@@ -2,7 +2,7 @@
 
 # Cody Moore
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2AA198&center=true&vCenter=true&width=600&lines=Software+Engineer;Ex-Palantir+Engineer;AI+Risk+%26+Security+Platform+Builder;Open+Source+Contributor;Distributed+Systems+Architect;Go/TypeScript/Kotlin/Rust+Enthusiast;Database+%26+Infrastructure+Admin;DevOps+%26+Platform+Engineer;Building+AI+Transparency+Tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2AA198&center=true&vCenter=true&width=600&lines=AI/Security+Software+Engineer;Ex-Palantir+Engineer;AI+Risk+%26+Security+Platform+Builder;Open+Source+Contributor;Distributed+Systems+Architect;Go/TypeScript/Kotlin/Rust+Enthusiast;Database+%26+Infrastructure+Admin;DevOps+%26+Platform+Engineer;Building+AI+Transparency+Tools" alt="Typing SVG" />
 
 **Engineer @ [Manifest](https://www.manifestcyber.com/) • AI Security & Transparency**
 
@@ -11,7 +11,7 @@
 <br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotCipher&show_icons=true&theme=solarized-dark&hide_border=true&bg_color=002b36&title_color=2aa198&icon_color=2aa198&text_color=839496&include_all_commits=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=dotCipher&theme=solarized-dark&hide_border=true&background=002b36&ring=2aa198&fire=2aa198&currStreakLabel=2aa198&sideLabels=839496&dates=839496&currStreakNum=839496&sideNums=839496)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dotCipher&layout=compact&theme=solarized-dark&hide_border=true&bg_color=002b36&title_color=2aa198&text_color=839496&langs_count=8)
 
 </div>
 
